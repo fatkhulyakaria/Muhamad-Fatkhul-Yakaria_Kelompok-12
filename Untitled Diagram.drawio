@@ -1,17 +1,29 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Page-1" id="-Jc1IERX7EY_bYW_jPpP">
-    <mxGraphModel dx="1500" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2350" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Xn-UC9uPtZDTchCGwuse-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="Xn-UC9uPtZDTchCGwuse-1" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Kader Posyandu&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="240" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xn-UC9uPtZDTchCGwuse-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="Xn-UC9uPtZDTchCGwuse-2" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Bidan Puskesmas&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="410" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xn-UC9uPtZDTchCGwuse-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="Xn-UC9uPtZDTchCGwuse-3" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Orang Tua&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="580" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xn-UC9uPtZDTchCGwuse-4" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Admin&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="770" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xn-UC9uPtZDTchCGwuse-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="150" y="210" width="650" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="Xn-UC9uPtZDTchCGwuse-6" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Use Case Diagram Posyandu&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="100" width="570" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Xn-UC9uPtZDTchCGwuse-9" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="260" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
